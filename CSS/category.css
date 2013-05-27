@@ -1,0 +1,28 @@
+body {
+    background-color:#1c432e;
+}
+.button {
+	background-color:#659200;
+	-moz-border-radius:25px;
+	-webkit-border-radius:25px;
+	border-radius:25px;
+	border:1px solid #4a6b00;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+    padding:0px 20px;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #528009;
+    margin:0px auto;
+	text-align:center;
+    width:12em;
+}
+.button:hover {
+	background-color:#77a809;
+}
+.button:active {
+	position:relative;
+	top:1px;
+}
